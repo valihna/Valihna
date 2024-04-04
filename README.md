@@ -45,4 +45,4 @@ Passionate about the IT world, I decided to give new impetus to my career and be
 
 - I am on <a href="www.linkedin.com/in/valeriane-sudre-chevalier"> LinkedIn</a>
 
-<a href="https://app.daily.dev/valerianesudrechevalier"><img src="https://api.daily.dev/devcards/v2/iGosgoVAAxaBNi7sBUnPP.png?r=r9e&type=wide" width="652" alt="Valeriane Sudre Chevalier's Dev Card"/></a>
+
