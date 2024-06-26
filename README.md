@@ -43,7 +43,7 @@ Passionate about the IT world, I decided to give new impetus to my career and be
 
 ## Where to find me 🔍 :
 
-- I am on <a href="www.linkedin.com/in/valeriane-sudre-chevalier"> LinkedIn</a>
+- I am on <a href="https://www.linkedin.com/in/valeriane-sudre-chevalier/"> LinkedIn</a>
 - My portfolio is :  https://valeriane-sudre-chevalier.com/
 
 
